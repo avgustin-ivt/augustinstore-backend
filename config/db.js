@@ -4,7 +4,7 @@ const { secret } = require('./secret');
 mongoose.set('strictQuery', false);
 
 // local url 
-const DB_URL = 'mongodb+srv://cool:nezapomnil123@atlascluster.nkmuek0.mongodb.net/'; 
+const DB_URL = 'mongodb+srv://avgustinivt:xZcdnfxIjo1emMdP@cluster0.rrze3r3.mongodb.net/'; 
 // mongodb url
 const MONGO_URI = secret.db_url;
 
